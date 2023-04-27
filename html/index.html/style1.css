@@ -1,0 +1,99 @@
+.add
+{
+  font-size:30px;
+  height: 200px;
+  width: 300px;
+  background-color:#cccccc;
+  color: green;
+  padding-top: 60px;
+  padding-right: 50px;
+  margin-left:90px ;
+box-shadow: 45px 15px 15px blue;
+text-align: center;
+transition: width 1s, height 1s,transform 1s ;
+text-align: center
+}
+.add:hover
+{
+  width:80px;
+  height:80px;
+  transform: rotate( 10deg);
+}
+
+.add
+{
+  font-size:30px;
+  height: 200px;
+  width: 300px;
+  background-color:#888888;
+  color: green;
+  padding-top: 60px;
+  padding-right: 50px;
+  margin-left:90px ;
+box-shadow: 45px 15px 15px blue;
+text-align: center;
+transition: width 1s, height 1s,transform 1s ;
+text-align: center;
+
+
+
+
+}
+.add:hover
+{
+  width:80px;
+  height:80px;
+  transform: rotate( 10deg);
+}
+
+.add
+{
+  font-size:30px;
+  height: 200px;
+  width: 300px;
+  background-color:#cccccc;
+  color: green;
+  padding-top: 60px;
+  padding-right: 50px;
+  margin-left:90px ;
+box-shadow: 45px 15px 15px blue;
+text-align: center;
+transition: width 1s, height 1s,transform 1s ;
+text-align: center;
+
+
+
+
+}
+.add:hover
+{
+  width:80px;
+  height:80px;
+  transform: rotate( 18deg);
+}
+
+.add
+{
+  font-size:30px;
+  height: 200px;
+  width: 300px;
+  background-color:#888888;
+  color: green;
+  padding-top: 60px;
+  padding-right: 50px;
+  margin-left:90px ;
+box-shadow: 45px 15px 15px blue;
+text-align: center;
+transition: width 1s, height 1s,transform 1s ;
+text-align: center;
+
+
+
+
+}
+.add:hover
+{
+  width:80px;
+  height:80px;
+  transform: rotate( 18deg);
+}

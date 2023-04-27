@@ -1,0 +1,47 @@
+
+
+.animation
+{
+	width: 100px;
+	height:100px;
+	background-color: #ff22cc;
+	border: solid blue;
+	animation-name: mymove;
+	animation-duration: 1s;
+	animation-iteration-count: infinite;
+	border-right-style: solid green;
+
+}
+@keyframes mymove
+{
+	50%{
+		rotate: X 60deg;
+	}
+	30%{
+	translate: X 360deg;
+	}
+	30%{
+	 box-shadow: 20px 20px 20px blue;
+	}
+	70%{
+		opacity: 0.2;
+	}
+	50%{
+		rotate: X 60deg;
+	}
+	30%{
+	translate: X 360deg;
+	}
+	30%{
+	 box-shadow: 20px 20px 20px blue;
+	}
+	70%{
+		opacity: 0.2;
+	
+
+}
+.hello {
+	display: flex;
+	
+	grid-template-columns: repeat(3, 1fr);
+}

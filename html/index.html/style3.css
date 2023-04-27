@@ -1,0 +1,32 @@
+.cover
+{
+height: 200px;
+width: 200px;
+border: 5px solid blue;
+margin-top: 50px;
+background-color:green;
+}
+.contant
+{
+height: 200px;
+width: 200px;
+background-color: red;
+transform:perspective(300px) rotare3d(45px,55px,15px);
+
+}
+.cover
+{
+height: 200px;
+width: 200px;
+border: 5px solid blue;
+margin-top: 50px;
+background-color:lightyellow;
+}
+.contant
+{
+height: 200px;
+width: 200px;
+background-color: red;
+transform:perspective(500px) rotare3d( 45px,55px,15px,);
+
+}

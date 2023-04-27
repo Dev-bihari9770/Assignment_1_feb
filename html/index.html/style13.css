@@ -1,0 +1,28 @@
+ul li a:hover
+{
+	background-color: transparent;
+	color: lightcoral;
+	border: 2px dotted blue;
+}
+ ul li a
+{
+	padding: 20px 30px;
+	
+	background-color: lightgreen;
+	display: block;
+	width:200px;
+
+}
+ul li a {
+	float:left;
+
+}
+ul li a {
+	text-decoration: none;
+    overflow:hidden;
+}
+ul li 
+{
+list-style-type: none;
+
+}

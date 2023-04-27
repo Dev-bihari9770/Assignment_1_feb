@@ -1,0 +1,18 @@
+.grad1
+{
+	height:50%;
+	width:50%;
+background-image:conic-gradient( orange,yellow,green,blue,indigo,indigo,orange,yellow,green,blue,indigo,indigo)
+}
+
+
+.grad1
+{
+
+	padding-top:40%;
+	font-size:20px;
+	font-weight:bold;
+	color:#ffffff;
+	border-radius:50%;
+    
+}

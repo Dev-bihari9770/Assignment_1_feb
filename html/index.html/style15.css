@@ -1,0 +1,57 @@
+body
+{
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+
+
+body
+{
+	background-color: aqua;
+	background-image: url(https://www.bhaktiphotos.com/wp-content/uploads/2018/04/Mahadev-Bhagwan-Photo-for-Devotee.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+ul li a:hover
+{
+	background-color: red;
+	color: aqua;
+	display: block;
+}
+ul
+{
+	margin: 0px;
+	padding: 0px;
+}
+ul li
+{
+	background-color: coral;
+	width: 200px;
+	height: 40px;
+	line-height: 40px;
+    float: left;
+    text-align: center;
+    border: 3px solid white;
+    border-radius: 20px;
+    
+
+
+}
+ul li
+ {
+	list-style-type: none;
+	color: white;
+}
+ul li ul li
+{
+	display: none;
+}
+ul li:hover ul li 
+{
+	display: block;
+}
+ul li a {
+	text-decoration: none;
+}
